@@ -26,6 +26,9 @@ h3 {
 }
 
 input {
-	
+	border: 3px solid #103c42;
+    background: #a9c6de;
+    border-radius: 15px;
+    padding: 5px;
 }
 
